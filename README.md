@@ -14,7 +14,7 @@
 ### ScreenShot 
 
  ![ScreenShot]("./images/EmailValidation.png")
- ![png](url:"https://github.com/Code-Code-Team/CC0005J-Email-Validation/blob/master/images/EmailValidation.png")
+ ![png](./images/EmailValidation.png)
 
  ### WebsiteLink
  
