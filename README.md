@@ -13,8 +13,10 @@
 ---
 ### ScreenShot 
 
- ![ScreenShot]("./images/../../images/EmailValidation.png")
+ ![ScreenShot]("./images/EmailValidation.png")
 
  ### WebsiteLink
+ 
+ https://code-code-team.github.io/CC0005J-Email-Validation/
 
  
