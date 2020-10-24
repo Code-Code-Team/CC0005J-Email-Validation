@@ -13,8 +13,7 @@
 ---
 ### ScreenShot 
 
- ![ScreenShot]("./images/EmailValidation.png")
- ![png](./images/EmailValidation.png)
+ ![ScreenShot](./images/EmailValidation.png)
 
  ### WebsiteLink
  
