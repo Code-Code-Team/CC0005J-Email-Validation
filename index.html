@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Mail Validation</title>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background-color: rgb(100, 173, 145);
+            margin-top: 10%;
+        }
+        .text-container {
+            font-size: 20px;
+            margin: 30px;
+            font-weight: 900;
+        }
+        .input-container,
+        .button-container {
+            margin: 30px;
+        }
+        input {
+            height: 30px;
+            width: 300px;
+            font-size: 20px
+        }
+        button {
+            height: 30px;
+            width: 200px;
+            border-radius: 15px;
+            transition: all 0.3s ease-out;
+        }
+    </style>
+    <script src="./checkValidMailAddress.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="text-container">Type your valid E-Mail Address</div>
+        <div class="input-container"><input type="text" /></div>
+        <div class="button-container"><button>Check</button></div>
+</body>
